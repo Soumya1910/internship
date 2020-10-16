@@ -8,5 +8,8 @@ class App_Logger:
                                   disable_existing_loggers=False)
         self.LOGGER = logging.getLogger(module)
 
-    def log(self, message):
-        self.LOGGER.info(message)
+    def log(self, logging_level, message):
+        if logging_level == 'INFO':
+            self.LOGGER.info(message)
+        elif logging_level == 'ERROR':
+            self.LOGGER.error(message)

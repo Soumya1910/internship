@@ -1,9 +1,8 @@
 import argparse
-import os
 import sys
-import logging.config
 
-from Validation.argument_validation import arg_validate
+from Exception.ArgumentParsingException import ArgumentParsingException
+from Validation.file_validation import FileValidate
 from application_logging.logger import App_Logger
 
 
@@ -17,8 +16,10 @@ class WareHouse:
         )
         arg_parser.add_argument('--image', '--im', '--i', help='image path for prediction', type=str)
         arg_parser.add_argument('--video','--v', help='video path for prediction', type=str)
+        self.logger.log('INFO','Total arguments : '+str(sys.argv))
         if len(sys.argv)!=3:
             arg_parser.print_help()
+            raise ArgumentParsingException('')
             sys.exit(-1)
         return  arg_parser
 
@@ -27,8 +28,7 @@ class WareHouse:
         args = arg_parser.parse_args()
         print(args.image)
         if args.image!= None:
-            arg_validate().isImageExists(args.image)
-        print('hi')
+            FileValidate().fileValidation(args.image)
         print(args.image)
 
 

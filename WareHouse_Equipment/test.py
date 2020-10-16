@@ -1,5 +1,6 @@
 import os
 
-str='../configuration/logging.conf'
+str='../abfhf.jpg'
 
-print(os.path.abspath(str))
+extension = os.path.splitext(str)[1][1:].upper()
+print(extension)

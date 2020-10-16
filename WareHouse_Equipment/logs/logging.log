@@ -10,3 +10,23 @@
 2020-10-15 22:52:17 main logger.py:log:8564 INFO - hi...
 2020-10-15 23:29:57 validation logger.py:log:9469 INFO - Image Path : abc.jpg
 2020-10-15 23:30:07 validation logger.py:log:9469 INFO - Image file is not present /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/WareHouse_Equipment/abc.jpg
+2020-10-16 12:44:15 validation logger.py:log:9250 INFO - Image Path : abc.jpg
+2020-10-16 12:44:15 validation logger.py:log:9250 INFO - File not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-16 16:55:28 validation logger.py:log:6230 INFO - Image Path : abc.jpg
+2020-10-16 16:55:28 validation logger.py:log:6230 INFO - File not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-16 16:56:39 validation logger.py:log:6271 INFO - Image Path : abc.jpg
+2020-10-16 16:56:39 validation logger.py:log:6271 INFO - File not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-16 17:16:18 validation logger.py:log:6661 INFO - Image Path : abc.jpg
+2020-10-16 17:20:33 validation logger.py:log:6856 INFO - Image Path : abc.jpg
+2020-10-16 17:21:14 validation logger.py:log:6886 INFO - Image Path : abc12.jpg
+2020-10-16 17:21:14 validation logger.py:log:6886 INFO - File not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc12.jpg
+2020-10-16 17:21:21 validation logger.py:log:6887 INFO - Image Path : abc.jpg
+2020-10-16 18:18:02 validation logger.py:log:8186 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abfhf.jpg
+2020-10-16 18:18:25 validation logger.py:log:8186 INFO - File Size : os.stat_result(st_mode=33188, st_ino=11031571, st_dev=2056, st_nlink=1, st_uid=1001, st_gid=1001, st_size=0, st_atime=1602832517, st_mtime=1602832517, st_ctime=1602832517)
+2020-10-16 18:25:19 validation logger.py:log:8418 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abfhf.jpg
+2020-10-16 18:25:29 validation logger.py:log:8418 INFO - File Size : 0
+2020-10-16 18:27:24 validation logger.py:log:8486 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abfhf.jpg
+2020-10-16 18:27:24 validation logger.py:log:8486 INFO - File Size : 0
+2020-10-16 18:42:43 main logger.py:log:8870 INFO - Total arguments : ['app.py', '--image', 'abc12.jpg']
+2020-10-16 18:42:43 validation logger.py:log:8870 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc12.jpg
+2020-10-16 18:42:43 validation logger.py:log:8870 ERROR - File Not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc12.jpg
