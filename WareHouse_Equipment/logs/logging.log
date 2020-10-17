@@ -30,3 +30,48 @@
 2020-10-16 18:42:43 main logger.py:log:8870 INFO - Total arguments : ['app.py', '--image', 'abc12.jpg']
 2020-10-16 18:42:43 validation logger.py:log:8870 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc12.jpg
 2020-10-16 18:42:43 validation logger.py:log:8870 ERROR - File Not found : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc12.jpg
+2020-10-17 22:04:53 main logger.py:log:10290 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 22:05:17 validation logger.py:log:10290 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 22:05:24 validation logger.py:log:10290 INFO - File Size : 153886
+2020-10-17 22:05:39 image-validation logger.py:log:10290 INFO - File Extension : JPG
+2020-10-17 22:06:22 validation logger.py:log:10290 ERROR - This is not an accepted image file
+2020-10-17 22:07:12 main logger.py:log:10416 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 22:07:19 validation logger.py:log:10416 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 22:07:19 validation logger.py:log:10416 INFO - File Size : 153886
+2020-10-17 22:07:28 image-validation logger.py:log:10416 INFO - File Extension : JPG
+2020-10-17 23:03:16 main logger.py:log:12163 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:03:16 validation logger.py:log:12163 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:03:16 validation logger.py:log:12163 INFO - File Size : 153886
+2020-10-17 23:03:30 image-validation logger.py:log:12163 INFO - File Extension : JPG
+2020-10-17 23:07:24 main logger.py:log:12313 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:07:24 validation logger.py:log:12313 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:07:24 validation logger.py:log:12313 INFO - File Size : 153886
+2020-10-17 23:07:35 image-validation logger.py:log:12313 INFO - File Extension : JPG
+2020-10-17 23:10:44 main logger.py:log:12413 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:10:44 validation logger.py:log:12413 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:10:44 validation logger.py:log:12413 INFO - File Size : 153886
+2020-10-17 23:10:50 image-validation logger.py:log:12413 INFO - File Extension : JPG
+2020-10-17 23:11:03 image-validation logger.py:log:12413 INFO - Image Size : (1018, 1280, 3)
+2020-10-17 23:12:43 main logger.py:log:12479 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:12:43 validation logger.py:log:12479 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:12:43 validation logger.py:log:12479 INFO - File Size : 153886
+2020-10-17 23:12:47 image-validation logger.py:log:12479 INFO - File Extension : JPG
+2020-10-17 23:12:53 image-validation logger.py:log:12479 INFO - Image Size : (1018, 1280, 3)
+2020-10-17 23:13:45 main logger.py:log:12547 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:13:45 validation logger.py:log:12547 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:13:45 validation logger.py:log:12547 INFO - File Size : 153886
+2020-10-17 23:13:56 image-validation logger.py:log:12547 INFO - File Extension : JPG
+2020-10-17 23:14:03 image-validation logger.py:log:12547 INFO - Image Size : (1018, 1280, 3)
+2020-10-17 23:14:13 image-validation logger.py:log:12547 INFO - Image Size : (1018, 1280)
+2020-10-17 23:14:48 main logger.py:log:12627 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:14:48 validation logger.py:log:12627 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:14:48 validation logger.py:log:12627 INFO - File Size : 153886
+2020-10-17 23:14:51 image-validation logger.py:log:12627 INFO - File Extension : JPG
+2020-10-17 23:14:56 image-validation logger.py:log:12627 INFO - Image Size : (1018, 1280, 3)
+2020-10-17 23:15:00 image-validation logger.py:log:12627 INFO - Image Size : (1018, 1280)
+2020-10-17 23:15:12 validation logger.py:log:12627 ERROR - This is not a color image
+2020-10-17 23:17:54 main logger.py:log:12894 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-17 23:17:54 validation logger.py:log:12894 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-17 23:17:54 validation logger.py:log:12894 INFO - File Size : 291216
+2020-10-17 23:17:54 image-validation logger.py:log:12894 INFO - File Extension : JPG
+2020-10-17 23:17:54 image-validation logger.py:log:12894 INFO - Image Size : (1080, 1624, 3)
