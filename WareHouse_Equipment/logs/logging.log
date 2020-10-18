@@ -75,3 +75,40 @@
 2020-10-17 23:17:54 validation logger.py:log:12894 INFO - File Size : 291216
 2020-10-17 23:17:54 image-validation logger.py:log:12894 INFO - File Extension : JPG
 2020-10-17 23:17:54 image-validation logger.py:log:12894 INFO - Image Size : (1080, 1624, 3)
+2020-10-18 12:16:06 main logger.py:log:11818 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-18 12:16:06 validation logger.py:log:11818 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-18 12:16:06 validation logger.py:log:11818 INFO - File Size : 291216
+2020-10-18 12:16:43 image-validation logger.py:log:11818 INFO - Image Size : (1080, 1624, 3)
+2020-10-18 12:16:49 image-validation logger.py:log:11818 INFO - File Extension : JPG
+2020-10-18 12:17:52 main logger.py:log:11887 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-18 12:17:52 validation logger.py:log:11887 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-18 12:17:52 validation logger.py:log:11887 INFO - File Size : 291216
+2020-10-18 12:18:07 image-validation logger.py:log:11887 INFO - Image Size : (1080, 1624, 3)
+2020-10-18 12:18:07 image-validation logger.py:log:11887 INFO - File Extension : JPG
+2020-10-18 12:19:35 main logger.py:log:11934 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-18 12:19:35 validation logger.py:log:11934 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-18 12:19:35 validation logger.py:log:11934 INFO - File Size : 291216
+2020-10-18 12:22:12 image-validation logger.py:log:11934 INFO - Image Size : (1080, 1624, 3)
+2020-10-18 12:22:12 image-validation logger.py:log:11934 INFO - File Extension : JPG
+2020-10-18 12:23:16 main logger.py:log:11934 INFO - Prediction File Name : ./prediction_file/image/abc_CgWlU3oW.jpg
+2020-10-18 12:29:19 main logger.py:log:12266 INFO - Total arguments : ['app.py', '--image', './pallet_truck.png']
+2020-10-18 12:29:19 validation logger.py:log:12266 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/pallet_truck.png
+2020-10-18 12:29:19 validation logger.py:log:12266 INFO - File Size : 17552
+2020-10-18 12:29:19 image-validation logger.py:log:12266 INFO - Image Size : (168, 300, 3)
+2020-10-18 12:29:19 image-validation logger.py:log:12266 INFO - File Extension : PNG
+2020-10-18 12:29:19 main logger.py:log:12266 INFO - Prediction File Name : ./prediction_file/image/pallet_truck_VuwYkCye.jpg
+2020-10-18 12:30:03 main logger.py:log:12291 INFO - Total arguments : ['app.py', '--image', './scissor_lift.jpeg']
+2020-10-18 12:30:03 validation logger.py:log:12291 INFO - Image Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/scissor_lift.jpeg
+2020-10-18 12:30:03 validation logger.py:log:12291 INFO - File Size : 21588
+2020-10-18 12:30:03 image-validation logger.py:log:12291 INFO - Image Size : (225, 225, 3)
+2020-10-18 12:30:03 image-validation logger.py:log:12291 INFO - File Extension : JPEG
+2020-10-18 12:30:03 main logger.py:log:12291 INFO - Prediction File Name : ./prediction_file/image/scissor_lift_IOqJvF8D.jpg
+2020-10-18 12:57:37 main logger.py:log:13192 INFO - Total arguments : ['app.py', '--image', './scissor_lift.jpeg']
+2020-10-18 12:57:37 file-validation logger.py:log:13192 INFO - Absolute File Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/scissor_lift.jpeg
+2020-10-18 12:57:37 file-validation logger.py:log:13192 INFO - checking file exists or not..
+2020-10-18 12:57:37 file-validation logger.py:log:13192 INFO - Checking file size 	File Size : 21588
+2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Validating color image or not..
+2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Image Size : (225, 225, 3)
+2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Valid File Extensions : ['JPG', 'JPEG', 'PNG']
+2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Image File Conversion and save into particular directory..
+2020-10-18 12:57:37 main logger.py:log:13192 INFO - Prediction File Name : ./prediction_file/image/scissor_lift_OMKHl2Zp.jpg

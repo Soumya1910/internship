@@ -28,16 +28,13 @@ class WareHouse:
         return arg_parser
 
     def main(self):
-        print(self.config.sections())
-        print(self.config.get('image','valid_image'))
-        print(type(self.config.get('image','valid_image')))
         arg_parser = self.__get_Arguments()
         args = arg_parser.parse_args()
 
-        if args.image != None:
+        if args.image is not None:
             FileValidate().fileValidation(args.image)
-            ImageValidate().image_validation(args.image, self.config.get('image','valid_image'))
-        print(args.image)
+            prediction_file = ImageValidate().image_validation(args.image, self.config)
+            self.logger.log('INFO', 'Prediction File Name : '+prediction_file)
 
 
 if __name__ == "__main__":
