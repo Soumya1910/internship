@@ -112,3 +112,23 @@
 2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Valid File Extensions : ['JPG', 'JPEG', 'PNG']
 2020-10-18 12:57:37 image-validation logger.py:log:13192 INFO - Image File Conversion and save into particular directory..
 2020-10-18 12:57:37 main logger.py:log:13192 INFO - Prediction File Name : ./prediction_file/image/scissor_lift_OMKHl2Zp.jpg
+2020-10-18 17:02:20 main logger.py:log:7680 INFO - Total arguments : ['/home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/app.py', '--image', 'abc.jpg']
+2020-10-18 17:02:20 file-validation logger.py:log:7680 INFO - Absolute File Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-18 17:02:20 file-validation logger.py:log:7680 INFO - checking file exists or not..
+2020-10-18 17:02:20 file-validation logger.py:log:7680 INFO - Checking file size 	File Size : 291216
+2020-10-18 17:02:20 image-validation logger.py:log:7680 INFO - Validating color image or not..
+2020-10-18 17:02:20 image-validation logger.py:log:7680 INFO - Image Size : (1080, 1624, 3)
+2020-10-18 17:02:20 image-validation logger.py:log:7680 INFO - Valid File Extensions : ['JPG', 'JPEG', 'PNG']
+2020-10-18 17:02:20 image-validation logger.py:log:7680 INFO - Image File Conversion and save into particular directory..
+2020-10-18 17:02:20 main logger.py:log:7680 INFO - Prediction File Name : ./prediction_file/image/abc_w7fjOpb3.jpg
+2020-10-21 22:18:23 main logger.py:log:6796 INFO - Total arguments : ['app.py']
+2020-10-21 22:18:23 validation logger.py:log:6796 ERROR - 
+2020-10-21 22:18:32 main logger.py:log:6804 INFO - Total arguments : ['app.py', '--image', 'abc.jpg']
+2020-10-21 22:18:32 file-validation logger.py:log:6804 INFO - Absolute File Path : /home/hadoop/Documents/iNeuron/Deep_Learning/Internship/internship/WareHouse_Equipment/abc.jpg
+2020-10-21 22:18:32 file-validation logger.py:log:6804 INFO - checking file exists or not..
+2020-10-21 22:18:32 file-validation logger.py:log:6804 INFO - Checking file size 	File Size : 291216
+2020-10-21 22:18:32 image-validation logger.py:log:6804 INFO - Validating color image or not..
+2020-10-21 22:18:33 image-validation logger.py:log:6804 INFO - Image Size : (1080, 1624, 3)
+2020-10-21 22:18:33 image-validation logger.py:log:6804 INFO - Valid File Extensions : ['JPG', 'JPEG', 'PNG']
+2020-10-21 22:18:33 image-validation logger.py:log:6804 INFO - Image File Conversion and save into particular directory..
+2020-10-21 22:18:33 main logger.py:log:6804 INFO - Prediction File Name : ./prediction_file/image/abc_ASrBGNks.jpg
